@@ -1,0 +1,7 @@
+C:\Udvikler\git\DesktopIconsSaveRestoreTool\bin\Debug\IconsSaveRestore.exe.config
+C:\Udvikler\git\DesktopIconsSaveRestoreTool\bin\Debug\IconsSaveRestore.exe
+C:\Udvikler\git\DesktopIconsSaveRestoreTool\bin\Debug\IconsSaveRestore.pdb
+C:\Udvikler\git\DesktopIconsSaveRestoreTool\obj\Debug\IconsSaveRestore.csproj.AssemblyReference.cache
+C:\Udvikler\git\DesktopIconsSaveRestoreTool\obj\Debug\IconsSaveRestore.csproj.CoreCompileInputs.cache
+C:\Udvikler\git\DesktopIconsSaveRestoreTool\obj\Debug\IconsSaveRestore.exe
+C:\Udvikler\git\DesktopIconsSaveRestoreTool\obj\Debug\IconsSaveRestore.pdb

@@ -1,10 +1,5 @@
-﻿// 
-//  Author:     Stanislav Povolotsky <stas.dev[at]povolotsky.info>
-//  Created:       
-// 
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using IconsSaveRestore.Code;
 
 namespace IconsSaveRestore
@@ -48,7 +43,6 @@ namespace IconsSaveRestore
         {
             Console.WriteLine(
                 "{0} is command line tool, used to save and restore position of desktop icons\n" +
-                "Source code is available at https://github.com/Stanislav-Povolotsky/DesktopIconsSaveRestoreTool/\n" +
                 "\n" +
                 "Usage:\n" + 
                 "\t{0} [save|load] <file_path> [/with-reg]\n" +

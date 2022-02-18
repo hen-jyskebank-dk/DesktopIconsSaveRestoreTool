@@ -2,6 +2,9 @@
 // http://www.codeproject.com/Articles/639486/Save-and-restore-icon-positions-on-desktop
 // License: http://www.codeproject.com/info/cpol10.aspx
 //
+// Modified:
+//      19.06.2016 by Stanislav Povolotsky <stas.dev[at]povolotsky.info>
+//    
 using System;
 using System.Collections.Generic;
 using System.Linq;

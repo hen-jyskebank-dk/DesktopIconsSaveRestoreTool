@@ -1,4 +1,8 @@
-﻿using System;
+﻿// 
+//  Author:     Stanislav Povolotsky <stas.dev[at]povolotsky.info>
+//  Created:       
+//
+using System;
 using System.Collections.Generic;
 using IconsSaveRestore.Code;
 
@@ -42,16 +46,16 @@ namespace IconsSaveRestore
         static void Usage()
         {
             Console.WriteLine(
-                "{0} is command line tool, used to save and restore position of desktop icons\n" +
+                "\n{0} kommandolinje værktøj til at gemme og genskabe desktop ikon positioner\n" +
                 "\n" +
-                "Usage:\n" + 
+                "Brug:\n" + 
                 "\t{0} [save|load] <file_path> [/with-reg]\n" +
-                "Example 1:\n" +
-                "\trem Saving position of desktop icons to the XML file\n" +
-                "\t{0} save \"C:\\Users\\s.povolotsky\\Documents\\desktop.xml\"\n" +
-                "Example 2:\n" +
-                "\trem Loading position of desktop icons from the XML file\n" +
-                "\t{0} load \"C:\\Users\\s.povolotsky\\Documents\\desktop.xml\"\n"
+                "\n" +
+                "\tGem aktuel position af desktop ikoner til XML fil\n" +
+                "\t{0} save \"C:\\udvikler\\desktop.xml\"\n" +
+                "\n" +
+                "\tGenskab desktop ikoners placering fra XML fil\n" +
+                "\t{0} load \"C:\\udvikler\\desktop.xml\"\n"
                 , System.AppDomain.CurrentDomain.FriendlyName);
             Environment.Exit(1);
         }
